@@ -1,5 +1,5 @@
 ### There are the codes and relevant data associated with the paper:
-*Connecting the Evolved Molecules in Tree of Life using Molecular Assembly Theory*, by Yu Liu, Cole Mathis, Michał Dariusz Bajczyk, Stuart Marshall, Liam Wilbraham, Leroy Cronin
+*Exploring and Mapping Chemical Space with Molecular Assembly Trees*, by Yu Liu, Cole Mathis, Michał Dariusz Bajczyk, Stuart Marshall, Liam Wilbraham, Leroy Cronin
 
 ------
 
