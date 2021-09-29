@@ -1,0 +1,12 @@
+Nstep2=30000
+Adenine
+Nstep1=100000
+Thymine
+Nstep1=100000
+Guanine
+Nstep1=100000
+Cytosine
+Nstep1=100000
+Uracil
+Nstep1=100000
+$
